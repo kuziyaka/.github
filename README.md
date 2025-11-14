@@ -1,1 +1,1 @@
-# .github
+# App for detect changes on sites
